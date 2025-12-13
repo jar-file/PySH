@@ -18,7 +18,7 @@ the commands that are in PySH are:
 ## On Windows
 You can see on line 12 a function which is: 
 ```
-os.system(clear)
+os.system("clear")
 ```
 replace clear with cls
 
