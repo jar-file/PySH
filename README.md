@@ -14,3 +14,13 @@ the commands that are in PySH are:
 **printsh**: to print text
 
 **pip**: to install packages with pip
+
+## On Windows
+You can see on line 12 a function which is: 
+```
+os.system(clear)
+```
+replace clear with cls
+
+## On Linux/Android
+It works no need for a modification
